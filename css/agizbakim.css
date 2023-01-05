@@ -1,0 +1,30 @@
+h3{
+  text-align: center;
+}
+.bilgi{
+  margin-left: 100;
+  margin-right: 100;
+
+}
+.fırca{
+  text-align: center;
+}
+
+.agizBakimSuyu{
+text-align: center;
+}
+.bakimSuyuResim{
+  width: 40%;
+  padding: 0 0 20;
+}
+.liste{
+  margin-left: 117;
+  margin-right: 100;
+}
+.ip{
+    text-align: center;
+}
+.ip_resim{
+  width:40%;
+  padding: 20 0 0;
+}

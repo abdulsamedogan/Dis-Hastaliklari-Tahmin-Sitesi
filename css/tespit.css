@@ -1,0 +1,58 @@
+.tespit{
+  text-align: center;
+}
+.tespit_resim{
+  width: 400px;
+  padding: 50;
+}
+.tespit_resim_div{
+    text-align: center;
+
+}
+select {
+    width: 50%;
+
+    padding: 10px 20px;
+
+    -moz-appearance: none;
+
+    border: none;
+
+    font-size: 16px;
+
+    border-radius: 4px;
+
+    background-color: #D3D3D3;
+}
+
+.button {
+
+  display: inline-block;
+
+  border-radius: 4px;
+
+  background-color: #D3D3D3;
+
+  border: none;
+
+
+
+  text-align: center;
+
+  font-size: 28px;
+
+  padding: 20px;
+
+  width: 200px;
+
+  transition: all 0.5s;
+
+  cursor: pointer;
+
+  margin: 5px;
+}
+.cozum{
+  font-size: 20px;
+
+
+}

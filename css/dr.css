@@ -1,0 +1,39 @@
+.drFoto{
+          padding: 30px 10;
+          text-align: center;
+
+}
+.isim{
+  text-align: center;
+  font-size: 17px;
+  font-weight: bold;
+}
+.meslek{
+  text-align: center;
+  font-size: 17px;
+
+}
+.butonort{
+  text-align: center;
+}
+a.buton{
+    background:#777;
+    padding:5px 10px;
+    text-decoration:none;
+    color:#fff;
+    font:bold 20px Arial, Helvetica, sans-serif;
+    border-radius: 7px;
+    box-shadow: 0 1px 2px #000;
+    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.25);
+}
+a.buton:hover{
+    background-color:#48D1CC;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+}
+h3.hakkında{
+  padding-left: 150;
+}
+.hakkındaprgf{
+  padding-left: 150;
+  padding-right: 150;
+}

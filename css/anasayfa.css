@@ -1,0 +1,37 @@
+.baslik1{
+	padding: 20 0 0;
+	text-align: center;
+}
+.foto1{
+	margin:0;
+	padding:0 50 30;
+	float:left;
+padding-left: 150;
+width: 400px;
+}
+.paragraf{
+font-size: 14px;
+	padding:0 0 0 ;
+padding-right: 150;
+}
+
+.p2{
+  font-size: 14px;
+  	padding:30 0 0 ;
+  padding-right: 150;
+}
+.foto2{
+  margin:0;
+	padding:30 50 30;
+	float:left;
+  padding-left: 150;
+  width: 400px;
+}
+
+.cizgi{
+    width: 75%;
+    margin-left: 150;
+    border-style: solid;
+    color:  #48D1CC;
+    border-width: 2px;
+}
